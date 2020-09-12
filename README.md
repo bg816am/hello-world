@@ -8,5 +8,5 @@ I am not quite sure how to use GitHub to its fullest, but using this for notes a
   <li>Block Breaker <i>Unity</i></li>
   <li>Ace Restaurant <i>Android</i></li>
   <li>Big Ed App <i>Xcode</i></li>
-  <li>Space Terror <i>Unity</i><li>
+  <li>Space Terror <i>Unity</i></li>
   </ul>
